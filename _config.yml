@@ -1,1 +1,4 @@
+include:
+  - whateveryouwant.md
+
 theme: jekyll-theme-tactile
